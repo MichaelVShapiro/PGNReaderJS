@@ -1,6 +1,7 @@
 /**
  * chess.js
- * The ability to read PGN data in JavaScript
+ * https://github.com/MichaelVShapiro/PGNReaderJS
+ * A simple PGN reader written in JavaScript
  * (c) 2024 Michael Shapiro
  * @version 1.0
  */
